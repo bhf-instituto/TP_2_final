@@ -1,0 +1,109 @@
+[ 3/11/2025 16:18:00 ] - Contacto Agregado: Robert Plant
+	→ plant;robert;1144456677;robertplant@hotmail.com;bournemouth 22
+
+[ 3/11/2025 16:18:20 ] - Contacto Agregado: Jimmy Page
+	→ page;jimmy;1144456688;jimmypage@gmail.com;heston 45
+
+[ 3/11/2025 16:18:40 ] - Contacto Agregado: John Bonham
+	→ bonham;john;1144456699;johnbonham@outlook.com;redbridge 18
+
+[ 3/11/2025 16:19:00 ] - Contacto Agregado: Paul McCartney
+	→ paul;mccartney;1155566778;paulmccartney@gmail.com;liverpool 12
+
+[ 3/11/2025 16:19:20 ] - Contacto Agregado: John Lennon
+	→ john;lennon;1155566779;johnlennon@outlook.com;liverpool 13
+
+[ 3/11/2025 16:19:40 ] - Contacto Agregado: George Harrison
+	→ george;harrison;1155566780;georgeharrison@live.com;liverpool 14
+
+[ 3/11/2025 16:20:00 ] - Contacto Agregado: Ringo Starr
+	→ ringo;starr;1155566781;ringostarr@yahoo.com;liverpool 15
+
+[ 3/11/2025 16:20:20 ] - Contacto Agregado: Anthony Kiedis
+	→ kiedis;anthony;1166677881;anthonykiedis@gmail.com;los angeles 99
+
+[ 3/11/2025 16:20:40 ] - Contacto Agregado: John Frusciante
+	→ frusciante;john;1166677882;johnfrusciante@hotmail.com;los angeles 100
+
+[ 3/11/2025 16:21:00 ] - Contacto Agregado: Flea Michael
+	→ flea;michael;1166677883;flea@outlook.com;los angeles 101
+
+[ 3/11/2025 16:21:20 ] - Contacto Agregado: Chad Smith
+	→ chad;smith;1166677884;chadsmith@live.com;los angeles 102
+
+[ 3/11/2025 16:21:40 ] - Contacto Agregado: Norberto Pappo
+	→ pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+
+[ 3/11/2025 16:22:00 ] - Contacto Agregado: Ricardo Molina
+	→ molina;ricardo;1177788992;ricardomolina@yahoo.com.ar;buenos aires 56
+
+[ 3/11/2025 16:22:20 ] - Contacto Agregado: Charly Garcia
+	→ charly;garcia;1177788993;charlygarcia@outlook.com.ar;buenos aires 57
+
+[ 3/11/2025 16:22:40 ] - Contacto Agregado: Diego Mollo
+	→ mollo;diego;1177788994;diegomollo@gmail.com;buenos aires 58
+
+[ 3/11/2025 16:23:00 ] - Contacto Agregado: Luca Prodan
+	→ luca;prodan;1177788995;luca_prodan@hotmail.com;buenos aires 59
+
+[ 3/11/2025 16:23:20 ] - Contacto Agregado: Gustavo Cerati
+	→ cerati;gustavo;1177788996;gustavocerati@live.com.ar;buenos aires 60
+
+[ 3/11/2025 16:23:40 ] - Contacto Agregado: Alejandro Sokol
+	→ sokol;alejandro;1177788997;alejandrosokol@yahoo.com;buenos aires 61
+
+[ 3/11/2025 16:24:00 ] - Contacto Agregado: Sr Flavio
+	→ sr;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+
+[ 3/11/2025 16:24:20 ] - Contacto Agregado: Skay Beilinson
+	→ skay;beilinson;1177788999;skaybeilinson@gmail.com;buenos aires 63
+
+[ 3/11/2025 16:24:40 ] - Contacto Agregado: Luis Spinetta
+	→ spinetta;luis;1177789000;luis_spinetta@hotmail.com;buenos aires 64[ 3/11/2025 16:24:36 ] - Contacto Editado: Flavio Sr
+- Nombre 'Flavio' cambia a 'Flavio'
+	← sr;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+	→ sr;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+
+[ 3/11/2025 16:24:45 ] - Contacto Editado: Flavio Sr
+- Apellido 'Sr' cambia a 'Cianciarulo'
+	← sr;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+	→ cianciarulo;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+
+[ 3/11/2025 16:24:48 ] - Contacto Editado: Flavio Sr
+- Nombre 'Flavio' cambia a 'Flavio Oscar '
+	← sr;flavio;1177788998;srflavio@outlook.com;buenos aires 62
+	→ cianciarulo;flavio oscar;1177788998;srflavio@outlook.com;buenos aires 62
+
+[ 3/11/2025 16:25:03 ] - Contacto Editado: David Grohl
+- Nombre 'David' cambia a 'Dave'
+	← grohl;david;1165465498;davegrohl@gmail.com;la sw 97898
+	→ grohl;dave;1165465498;davegrohl@gmail.com;la sw 97898
+
+[ 3/11/2025 16:25:53 ] - Contacto Eliminado: Mariano Bauhoffer
+	← bauhoffer;mariano;2224465613;bauhoffermariano@gmail.com;brasil 76
+
+[ 3/11/2025 16:26:11 ] - Contacto Editado: Norberto Pappo
+- Apellido 'Pappo' cambia a 'Napolitano'
+	← pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+	→ napolitano;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+
+[ 3/11/2025 16:26:17 ] - Contacto Editado: Norberto Pappo
+- Nombre 'Norberto' cambia a 'Norberto Anibal '
+	← pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+	→ napolitano;norberto anibal;1177788991;pappo@hotmail.com;buenos aires 55
+
+[ 3/11/2025 16:26:29 ] - Contacto Editado: Norberto Pappo
+- Direccion 'Buenos Aires 55 ' cambia a 'Artigas 1917 '
+	← pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+	→ napolitano;norberto anibal;1177788991;pappo@hotmail.com;artigas 1917
+
+[ 3/11/2025 16:26:50 ] - Contacto Editado: Norberto Pappo
+- Email 'Pappo@hotmail.com' cambia a 'Papposblues@gmail.com'
+	← pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+	→ napolitano;norberto anibal;1177788991;papposblues@gmail.com;artigas 1917
+
+[ 3/11/2025 16:26:55 ] - Contacto Editado: Norberto Pappo
+- Telefono '1177788991' cambia a '2224465998'
+	← pappo;norberto;1177788991;pappo@hotmail.com;buenos aires 55
+	→ napolitano;norberto anibal;2224465998;papposblues@gmail.com;artigas 1917
+

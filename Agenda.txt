@@ -1,0 +1,24 @@
+hendrix;jimi;1145445885;jimihendrix@gmail.com;seattle sw 123
+mollo;ricardo;1157889878;ricardo_mollo@hotmail.com;pergamino 123
+grohl;dave;1165465498;davegrohl@gmail.com;la sw 97898
+plant;robert;1144456677;robertplant@hotmail.com;bournemouth 22
+page;jimmy;1144456688;jimmypage@gmail.com;heston 45
+bonham;john;1144456699;johnbonham@outlook.com;redbridge 18
+paul;mccartney;1155566778;paulmccartney@gmail.com;liverpool 12
+john;lennon;1155566779;johnlennon@outlook.com;liverpool 13
+george;harrison;1155566780;georgeharrison@live.com;liverpool 14
+ringo;starr;1155566781;ringostarr@yahoo.com;liverpool 15
+kiedis;anthony;1166677881;anthonykiedis@gmail.com;los angeles 99
+frusciante;john;1166677882;johnfrusciante@hotmail.com;los angeles 100
+flea;michael;1166677883;flea@outlook.com;los angeles 101
+chad;smith;1166677884;chadsmith@live.com;los angeles 102
+napolitano;norberto anibal;2224465998;papposblues@gmail.com;artigas 1917
+molina;ricardo;1177788992;ricardomolina@yahoo.com.ar;buenos aires 56
+charly;garcia;1177788993;charlygarcia@outlook.com.ar;buenos aires 57
+mollo;diego;1177788994;diegomollo@gmail.com;buenos aires 58
+luca;prodan;1177788995;luca_prodan@hotmail.com;buenos aires 59
+cerati;gustavo;1177788996;gustavocerati@live.com.ar;buenos aires 60
+sokol;alejandro;1177788997;alejandrosokol@yahoo.com;buenos aires 61
+cianciarulo;flavio oscar;1177788998;srflavio@outlook.com;buenos aires 62
+skay;beilinson;1177788999;skaybeilinson@gmail.com;buenos aires 63
+spinetta;luis;1177789000;luis_spinetta@hotmail.com;buenos aires 64
