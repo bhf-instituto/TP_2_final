@@ -2,6 +2,10 @@
 
 **Autor:** Bauhoffer Mariano  
 **Licencia:** MIT
+**Materia:** Programación 1
+**Profesor:** Pini Leandro
+**Curso:** 1° C
+**Año:** 2025
 
 ## Resumen
 Aplicación de consola para gestionar una agenda de contactos. Interfaz enriquecida con Spectre.Console para menús y tablas. Los contactos se guardan en un archivo de texto y cada acción importante se registra en un log.
