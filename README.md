@@ -11,6 +11,11 @@ Aplicación de consola para gestionar una agenda de contactos. Interfaz enriquec
 - C# 12
 - Paquete NuGet: Spectre.Console (en el proyecto se usa la versión 0.53.0)
 
+## Locación original de la solución
+- **C:\Prog1\TP_2**
+
+## Repositorio de GitHub
+
 ## Estructura principal
 - **TP_2/Program.cs** – Punto de entrada y loop principal.  
 - **TP_2/Declara.cs** – Variables y configuración global (rutas de archivos, arrays de dominios, lista de contactos).  
